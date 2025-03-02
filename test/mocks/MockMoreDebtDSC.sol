@@ -31,7 +31,7 @@ import { MockV3Aggregator } from "./MockV3Aggregator.sol";
 
 /*
  * @title DecentralizedStableCoin
- * @author Patrick Collins
+ * @author Shayan Hasan Khan
  * Collateral: Exogenous
  * Minting (Stability Mechanism): Decentralized (Algorithmic)
  * Value (Relative Stability): Anchored (Pegged to USD)
